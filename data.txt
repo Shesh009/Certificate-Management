@@ -1,0 +1,2 @@
+Name|Mobile|College|CollegeID|Password|Email|Movie
+Sheshu Akula|8790067206|UCEOU|100521729002|Sheshu@009|akulasheshu4@gmail.com|Jersey
