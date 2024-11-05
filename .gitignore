@@ -1,0 +1,39 @@
+# Ignore Python virtual environments
+.venv/
+env/
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore Jupyter Notebook checkpoints, if any are used
+.ipynb_checkpoints/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.DS_Store
+
+# Ignore environment variables or sensitive configuration files
+.env
+*.env
+
+# Ignore compiled files
+*.pyc
+*.pyd
+*.pyo
+*.pdb
+
+# Ignore Streamlit's automatically created config and cache directories
+.streamlit/config.toml
+.streamlit/secrets.toml
+.streamlit/cache/
+
+# Ignore specific OS files
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
